@@ -6,7 +6,7 @@ function Div1() {
      
       </div>
       <div className="image1" >
-      <img src="image1.jpg"  alt="image"/>
+      <img src="image1.jpg"  width="50%" alt="a" />
     </div>
       </div>
     );
