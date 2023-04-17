@@ -1,15 +1,15 @@
 import './Div1.css';
 function Div1() {
-    return (
-        <div className="Wrapper" >
-          <div className="intro" >
-     
+  return (
+    <div className="Wrapper" >
+      <div className="intro" >
+
       </div>
       <div className="image1" >
-      <img src="image1.jpg"  width="50%"  alt="a" />
-    </div>
+        <img src="image1.jpg" width="50%" alt="a" />
       </div>
-    );
-  }
-  
-  export default Div1;
+    </div>
+  );
+}
+
+export default Div1;
