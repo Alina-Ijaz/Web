@@ -5,7 +5,6 @@ nav {
 }
 
 nav ul {
-  text-decoration-color: #D3A075;
   list-style: none;
   display: flex;
   justify-content: space-between;
